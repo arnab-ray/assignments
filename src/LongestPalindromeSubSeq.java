@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class LongestPalindromeSubSeq {
 
     private static int lpsUtil(char[] chars, int i, int j, int[][] lp) {
